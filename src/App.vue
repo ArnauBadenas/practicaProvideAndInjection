@@ -42,7 +42,7 @@
         </tr>
         <tr>
           <td>TOTAL</td>
-          <td>{{ totalPrice() + ((totalPrice() / 100) * 21) }}€</td>         
+          <td>{{ totalPrice() + ((totalPrice() / 100) * 10) }}€</td>         
         </tr>
       </table>
     </section>
